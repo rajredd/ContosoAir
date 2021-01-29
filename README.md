@@ -1,4 +1,5 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+
+[![Build Status](https://dev.azure.com/stealthsrg0186/ContosoAir/_apis/build/status/rajredd.ContosoAir?branchName=master)](https://dev.azure.com/stealthsrg0186/ContosoAir/_build/latest?definitionId=9&branchName=master)# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
 # Microsoft.Github CI Demo
